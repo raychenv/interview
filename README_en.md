@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/huihut/interview/">简体中文</a>
+<a href="https://github.com/raychenv/interview/">简体中文</a>
 &emsp;&emsp; | &emsp;&emsp;
 English
 </div> 
