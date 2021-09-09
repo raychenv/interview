@@ -8,7 +8,7 @@
 <div align="center">
 简体中文
 &emsp;&emsp; | &emsp;&emsp;
-<a href="https://github.com/huihut/interview/blob/master/README_en.md">English</a>
+<a href="https://github.com/raychenv/interview/blob/master/README_en.md">English</a>
 </div> 
 <br>
 
@@ -32,12 +32,12 @@
 * [〽️ 数据结构](#data-structure)
 * [⚡️ 算法](#algorithm)
 * [❓ Problems](#problems)
+* [📏 设计模式](#design-pattern)
+* [⚙️ 链接装载库](#link-loading-library)
 * [💻 操作系统](#os)
 * [☁️ 计算机网络](#computer-network)
 * [🌩 网络编程](#network-programming)
 * [💾 数据库](#database)
-* [📏 设计模式](#design-pattern)
-* [⚙️ 链接装载库](#link-loading-library)
 * [📚 书籍](#books)
 * [🔱 C/C++ 发展方向](#cc-development-direction)
 * [💯 复习刷题网站](#review-of-brush-questions-website)
